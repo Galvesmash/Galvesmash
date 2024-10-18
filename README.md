@@ -1,6 +1,7 @@
 ## Hety there, nice to meet you! The name is [Gabriel Galves Taliatti](https://galvesmash.com/) 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:galvesmash.dev@gmail.com)
 ![ProfileViews](https://komarev.com/ghpvc/?username=Galvesmash&label=Profile%20views&color=70A5FD&style=flat)
+
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galvesmash/)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/~galvesmash)
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://galvesmash.itch.io/)
@@ -12,7 +13,6 @@
 Over 8 years developing web apps and sites with the best user experience for start-ups and companies. My professional background and dedication enables me to deliver high-quality solutions and contribute to innovative projects.
 
 ## Skills
-### Languages
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
@@ -22,6 +22,7 @@ Over 8 years developing web apps and sites with the best user experience for sta
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)
+
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
