@@ -1,5 +1,5 @@
 ## Hey there, nice to meet you! The name is [Gabriel Galves Taliatti](https://galvesmash.com/) 👋
-![ProfileViews](https://komarev.com/ghpvc/?style=for-the-badge&username=Galvesmash&label=Profile%20views&color=70A5FD&style=flat)
+![ProfileViews](https://komarev.com/ghpvc/?style=for-the-badge&username=Galvesmash&label=Profile%20views&color=70A5FD)
 [![Contact me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galvesmash.dev@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galvesmash/)
