@@ -1,6 +1,6 @@
 ## Hey there, nice to meet you! The name is [Gabriel Galves Taliatti](https://galvesmash.com/) 👋
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:galvesmash.dev@gmail.com)
-![ProfileViews](https://komarev.com/ghpvc/?username=Galvesmash&label=Profile%20views&color=70A5FD&style=flat)
+![ProfileViews](https://komarev.com/ghpvc/?style=for-the-badge&username=Galvesmash&label=Profile%20views&color=70A5FD&style=flat)
+[![Contact me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galvesmash.dev@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galvesmash/)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/~galvesmash)
@@ -19,6 +19,8 @@ Over 8 years developing web apps and sites with the best user experience for sta
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF)
