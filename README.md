@@ -23,10 +23,9 @@ Over 8 years developing web apps and sites with the best user experience for sta
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)
 
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
