@@ -1,4 +1,4 @@
-## Hey there, nice to meet you! The name is [Gabriel Galves Taliatti](https://galvesmash.com/) 👋
+## Hey there, nice to meet you! I'm [Gabriel Galves Taliatti](https://galvesmash.com/)
 ![ProfileViews](https://komarev.com/ghpvc/?style=for-the-badge&username=Galvesmash&label=Profile%20views&color=70A5FD)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galvesmash.dev@gmail.com)
 
