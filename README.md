@@ -35,8 +35,8 @@ Over 8 years developing web apps and sites with the best user experience for sta
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 
-##
-<div>
+## Github
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvesmash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Galvesmash&rank_icon=github&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=galvesmash&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="streak graph" />
