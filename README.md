@@ -10,7 +10,13 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/galvesmash)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnmUOQnQCA5cElOBEwt115w)
 
-Over 8 years developing web apps and sites with the best user experience for start-ups and companies. My professional background and dedication enables me to deliver high-quality solutions and contribute to innovative projects.
+<p align="left">
+  Over 8 years developing web apps and sites with the best user experience for start-ups and companies. My professional background and dedication enables me to deliver high-quality solutions and contribute to innovative projects.
+<br />
+  More experienced as a frontend I’m skilled in JavaScript, TypeScript, Vue.js, Nuxt.js, Vuetify.js, Vuex, SEO, Pinia, React.js, Next.js, Redux, Tailwind CSS and CSS preprocessors like LESS, SASS, and SCSS. Additionally, I have proficiency with Git, Scrum, SEO and Agile methodologies.
+  For testing I have experience with Vue-Test-Utils, Jest, Vitest, and Cypress.
+<br />
+  I also worked for about 4 years as a Fullstack Developer, my experiences are with Node.js, PHP, and Laravel. As a game developer I have about 4 years of experience in Unity3D using C# and 3 years with Blender3D.</p>
 
 ## Skills
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
