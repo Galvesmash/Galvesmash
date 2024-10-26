@@ -17,7 +17,8 @@
   <br />
   For testing I have experience with Vue-Test-Utils, Jest, Vitest, and Cypress.
   <br /><br />
-  I also worked for about 4 years as a Fullstack Developer, my experiences are with Node.js, PHP, and Laravel. As a game developer I have about 4 years of experience in Unity3D using C# and 3 years with Blender3D.</p>
+  I also worked for about 4 years as a Fullstack Developer, my experiences are with Node.js, PHP, and Laravel. As a game developer I have about 4 years of experience in Unity3D using C# and 3 years with Blender3D.
+</p>
 
 ## Skills
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
