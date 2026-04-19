@@ -1,8 +1,5 @@
 ## Hey there, nice to meet you! I'm [Gabriel Galves Taliatti](https://galvesmash.com)
-[🌍 Mais sobre meu trabalho](https://galvesmash.com)
-
 ![ProfileViews](https://komarev.com/ghpvc/?style=for-the-badge&username=Galvesmash&label=Profile%20views&color=70A5FD)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galvesmash.dev@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galvesmash/)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/~galvesmash)
@@ -11,6 +8,8 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/galvesmash)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/galvesmash)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnmUOQnQCA5cElOBEwt115w)
+
+[🌍 Mais sobre meu trabalho](https://galvesmash.com)
 
 <p align="left">
   Over 10 years developing web apps and sites with the best user experience for start-ups and companies. My professional background and dedication enables me to deliver high-quality solutions and contribute to innovative projects.
