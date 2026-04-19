@@ -11,7 +11,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnmUOQnQCA5cElOBEwt115w)
 
 <p align="left">
-  Over 9 years developing web apps and sites with the best user experience for start-ups and companies. My professional background and dedication enables me to deliver high-quality solutions and contribute to innovative projects.
+  Over 10 years developing web apps and sites with the best user experience for start-ups and companies. My professional background and dedication enables me to deliver high-quality solutions and contribute to innovative projects.
   <br /><br />
   More experienced as a frontend I’m skilled in JavaScript, TypeScript, Vue.js, Nuxt.js, Vuetify.js, Vuex, SEO, Pinia, React.js, Next.js, Redux, Tailwind CSS and CSS preprocessors like LESS, SASS, and SCSS. Additionally, I have proficiency with Git, Scrum, SEO and Agile methodologies.
   <br />
